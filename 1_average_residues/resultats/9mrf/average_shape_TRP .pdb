@@ -1,0 +1,23 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+ATOM      1  N   TRP A   7      -6.870   5.373   5.200  1.00 14.71      A    N  
+ATOM      2  CA  TRP A   7      -6.876   4.638   3.923  1.00 16.80      A    C  
+ATOM      3  C   TRP A   7      -6.614   5.587   2.747  1.00 16.03      A    C  
+ATOM      4  O   TRP A   7      -5.820   5.259   1.873  1.00 14.52      A    O  
+ATOM      5  CB  TRP A   7      -8.206   3.895   3.744  1.00 16.19      A    C  
+ATOM      6  CG  TRP A   7      -8.207   2.560   4.416  1.00 19.60      A    C  
+ATOM      7  CD1 TRP A   7      -8.819   2.235   5.588  1.00 19.79      A    C  
+ATOM      8  CD2 TRP A   7      -7.569   1.351   3.954  1.00 20.75      A    C  
+ATOM      9  NE1 TRP A   7      -8.587   0.920   5.896  1.00 21.59      A    N  
+ATOM     10  CE2 TRP A   7      -7.831   0.352   4.910  1.00 24.12      A    C  
+ATOM     11  CE3 TRP A   7      -6.804   1.024   2.836  1.00 26.30      A    C  
+ATOM     12  CZ2 TRP A   7      -7.351  -0.952   4.778  1.00 25.27      A    C  
+ATOM     13  CZ3 TRP A   7      -6.329  -0.264   2.709  1.00 24.89      A    C  
+ATOM     14  CH2 TRP A   7      -6.601  -1.234   3.669  1.00 22.04      A    C  
+END

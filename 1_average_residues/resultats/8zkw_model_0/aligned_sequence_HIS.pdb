@@ -1,0 +1,112 @@
+HEADER    
+TITLE     MDANALYSIS FRAMES FROM 0, STEP 1: Created by PDBWriter
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+MODEL        1
+ATOM      1  N  1HIS A  40      14.931 -12.231  24.132  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      14.960 -10.861  24.651  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.577  -9.833  23.698  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      15.763  -8.677  24.078  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.623 -10.846  26.037  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.869 -11.672  27.046  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      13.652 -11.349  27.603  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      15.230 -12.891  27.546  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      13.293 -12.349  28.421  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      14.226 -13.307  28.422  1.00 71.69      A    N  
+ENDMDL
+MODEL        2
+ATOM      1  N  1HIS A  40      15.056 -12.234  23.963  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      14.841 -10.850  24.387  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      16.131 -10.159  24.858  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      16.376  -9.005  24.483  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      13.758 -10.827  25.473  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.113 -11.595  26.718  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      14.362 -12.941  26.823  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      14.246 -11.076  27.977  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      14.652 -13.211  28.115  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      14.587 -12.116  28.838  1.00 71.69      A    N  
+ENDMDL
+MODEL        3
+ATOM      1  N  1HIS A  40      15.923 -11.595  23.121  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      15.206 -11.278  24.362  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.450  -9.835  24.824  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      14.506  -9.140  25.173  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.618 -12.279  25.449  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.863 -12.104  26.731  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      15.413 -11.994  27.992  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      13.501 -12.033  26.877  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      14.409 -11.871  28.876  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      13.234 -11.888  28.229  1.00 71.69      A    N  
+ENDMDL
+MODEL        4
+ATOM      1  N  1HIS A  40      15.124 -11.880  24.086  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      14.811 -10.646  24.799  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.262  -9.430  23.993  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      16.260  -9.473  23.277  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.449 -10.667  26.196  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.780 -11.643  27.126  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      13.531 -11.480  27.699  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      15.280 -12.838  27.568  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      13.292 -12.555  28.467  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      14.334 -13.403  28.422  1.00 71.69      A    N  
+ENDMDL
+MODEL        5
+ATOM      1  N  1HIS A  40      15.260 -11.528  22.978  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      14.981 -11.167  24.367  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.783  -9.946  24.843  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      15.215  -9.018  25.414  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.208 -12.398  25.255  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.724 -12.182  26.667  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      13.406 -12.118  27.074  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      15.498 -11.978  27.772  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      13.400 -11.889  28.401  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      14.649 -11.793  28.863  1.00 71.69      A    N  
+ENDMDL
+MODEL        6
+ATOM      1  N  1HIS A  40      15.371 -11.592  23.003  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      15.007 -11.140  24.347  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.878  -9.955  24.793  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      15.345  -8.902  25.138  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.118 -12.337  25.296  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.642 -12.128  26.714  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      14.519 -13.146  27.640  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      14.260 -10.967  27.312  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      14.077 -12.581  28.777  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      13.908 -11.269  28.614  1.00 71.69      A    N  
+ENDMDL
+MODEL        7
+ATOM      1  N  1HIS A  40      15.811 -11.499  23.218  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      15.019 -11.345  24.438  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      14.547  -9.885  24.608  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      15.391  -8.998  24.723  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.846 -11.801  25.637  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      15.002 -11.955  26.881  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      14.248 -10.983  27.492  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      14.795 -13.127  27.554  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      13.577 -11.568  28.502  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      13.887 -12.855  28.580  1.00 71.69      A    N  
+ENDMDL
+MODEL        8
+ATOM      1  N  1HIS A  40      15.009 -12.183  24.024  1.00 79.20      A    N  
+ATOM      2  CA 1HIS A  40      15.066 -10.875  24.677  1.00 80.53      A    C  
+ATOM      3  C  1HIS A  40      15.757  -9.782  23.878  1.00 83.32      A    C  
+ATOM      4  O  1HIS A  40      15.344  -8.628  23.943  1.00 80.96      A    O  
+ATOM      5  CB 1HIS A  40      15.754 -11.029  26.039  1.00 77.66      A    C  
+ATOM      6  CG 1HIS A  40      14.909 -11.761  27.033  1.00 75.94      A    C  
+ATOM      7  ND11HIS A  40      13.856 -11.209  27.738  1.00 66.34      A    N  
+ATOM      8  CD21HIS A  40      15.028 -13.063  27.410  1.00 67.81      A    C  
+ATOM      9  CE11HIS A  40      13.356 -12.173  28.532  1.00 69.90      A    C  
+ATOM     10  NE21HIS A  40      14.044 -13.313  28.360  1.00 71.69      A    N  
+ENDMDL
+END

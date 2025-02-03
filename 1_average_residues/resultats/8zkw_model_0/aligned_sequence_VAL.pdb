@@ -1,0 +1,430 @@
+HEADER    
+TITLE     MDANALYSIS FRAMES FROM 0, STEP 1: Created by PDBWriter
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+MODEL        1
+ATOM      1  N  1VAL A  31      20.894 -22.978  30.666  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      20.924 -21.545  30.367  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      21.957 -21.299  29.266  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      23.127 -21.047  29.527  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.209 -20.699  31.625  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.124 -19.195  31.331  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      20.201 -21.006  32.750  1.00 61.95      A    C  
+ENDMDL
+MODEL        2
+ATOM      1  N  1VAL A  31      20.947 -23.059  30.779  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.166 -21.633  30.505  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.477 -21.421  29.745  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.485 -20.729  28.735  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.114 -20.812  31.803  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.565 -19.360  31.609  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.683 -20.755  32.356  1.00 61.95      A    C  
+ENDMDL
+MODEL        3
+ATOM      1  N  1VAL A  31      20.931 -23.090  30.825  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.161 -21.673  30.505  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.455 -21.457  29.714  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.480 -20.624  28.811  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.128 -20.817  31.781  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.590 -19.368  31.568  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.691 -20.740  32.327  1.00 61.95      A    C  
+ENDMDL
+MODEL        4
+ATOM      1  N  1VAL A  31      20.961 -23.082  30.789  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.188 -21.653  30.531  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.487 -21.404  29.754  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.418 -20.707  28.738  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.104 -20.809  31.810  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.623 -19.382  31.622  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.655 -20.732  32.287  1.00 61.95      A    C  
+ENDMDL
+MODEL        5
+ATOM      1  N  1VAL A  31      20.868 -23.043  30.776  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.147 -21.631  30.483  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.476 -21.466  29.746  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.552 -20.689  28.800  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.142 -20.789  31.772  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.495 -19.325  31.522  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.757 -20.826  32.434  1.00 61.95      A    C  
+ENDMDL
+MODEL        6
+ATOM      1  N  1VAL A  31      20.930 -23.046  30.767  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.158 -21.619  30.497  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.481 -21.417  29.755  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.514 -20.755  28.717  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.118 -20.804  31.802  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.539 -19.343  31.603  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.696 -20.784  32.389  1.00 61.95      A    C  
+ENDMDL
+MODEL        7
+ATOM      1  N  1VAL A  31      20.927 -23.073  30.805  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.150 -21.651  30.496  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.457 -21.452  29.729  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.507 -20.663  28.789  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.126 -20.808  31.785  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.567 -19.356  31.565  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.702 -20.766  32.363  1.00 61.95      A    C  
+ENDMDL
+MODEL        8
+ATOM      1  N  1VAL A  31      20.866 -23.015  30.736  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.151 -21.595  30.487  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.493 -21.454  29.765  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.568 -20.768  28.745  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.139 -20.779  31.788  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.459 -19.302  31.546  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.760 -20.856  32.465  1.00 61.95      A    C  
+ENDMDL
+MODEL        9
+ATOM      1  N  1VAL A  31      20.824 -22.997  30.751  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.148 -21.596  30.466  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.485 -21.475  29.749  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.618 -20.751  28.769  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.147 -20.774  31.772  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.414 -19.288  31.518  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.801 -20.889  32.506  1.00 61.95      A    C  
+ENDMDL
+MODEL       10
+ATOM      1  N  1VAL A  31      20.856 -23.017  30.749  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.153 -21.605  30.485  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.493 -21.461  29.755  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.570 -20.741  28.760  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.140 -20.787  31.788  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.455 -19.311  31.533  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.769 -20.846  32.461  1.00 61.95      A    C  
+ENDMDL
+MODEL       11
+ATOM      1  N  1VAL A  31      20.876 -23.049  30.760  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.154 -21.627  30.496  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.482 -21.455  29.748  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.546 -20.706  28.775  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.139 -20.797  31.792  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.494 -19.326  31.533  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.745 -20.810  32.429  1.00 61.95      A    C  
+ENDMDL
+MODEL       12
+ATOM      1  N  1VAL A  31      20.881 -23.059  30.781  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.143 -21.640  30.480  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.474 -21.470  29.733  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.559 -20.677  28.793  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.128 -20.795  31.770  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.503 -19.323  31.534  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.748 -20.804  32.441  1.00 61.95      A    C  
+ENDMDL
+MODEL       13
+ATOM      1  N  1VAL A  31      20.935 -23.062  30.778  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.158 -21.638  30.502  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.470 -21.433  29.748  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.497 -20.708  28.755  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.120 -20.807  31.803  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.562 -19.353  31.579  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.694 -20.768  32.368  1.00 61.95      A    C  
+ENDMDL
+MODEL       14
+ATOM      1  N  1VAL A  31      20.886 -23.061  30.814  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.150 -21.650  30.494  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.456 -21.480  29.709  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.553 -20.630  28.807  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.137 -20.807  31.783  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.524 -19.353  31.523  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.731 -20.787  32.403  1.00 61.95      A    C  
+ENDMDL
+MODEL       15
+ATOM      1  N  1VAL A  31      21.669 -23.122  31.149  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.200 -21.841  30.607  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.239 -21.198  29.694  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      21.874 -20.659  28.659  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      20.728 -20.895  31.730  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.847 -20.275  32.566  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.881 -19.778  31.128  1.00 61.95      A    C  
+ENDMDL
+MODEL       16
+ATOM      1  N  1VAL A  31      20.901 -23.058  30.777  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.156 -21.639  30.500  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.474 -21.453  29.744  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.520 -20.682  28.783  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.130 -20.807  31.791  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.531 -19.346  31.540  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.725 -20.784  32.397  1.00 61.95      A    C  
+ENDMDL
+MODEL       17
+ATOM      1  N  1VAL A  31      20.843 -23.043  30.798  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.140 -21.640  30.472  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.464 -21.493  29.720  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.591 -20.635  28.840  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.143 -20.797  31.758  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.473 -19.335  31.476  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.782 -20.826  32.468  1.00 61.95      A    C  
+ENDMDL
+MODEL       18
+ATOM      1  N  1VAL A  31      20.940 -22.912  30.572  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      20.930 -21.459  30.363  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      21.948 -21.140  29.271  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      23.146 -21.355  29.450  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.204 -20.681  31.664  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.073 -19.164  31.435  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      20.195 -21.059  32.776  1.00 61.95      A    C  
+ENDMDL
+MODEL       19
+ATOM      1  N  1VAL A  31      20.931 -23.089  30.791  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.187 -21.665  30.519  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.486 -21.432  29.735  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.447 -20.672  28.770  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.117 -20.810  31.805  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.591 -19.365  31.591  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.677 -20.736  32.321  1.00 61.95      A    C  
+ENDMDL
+MODEL       20
+ATOM      1  N  1VAL A  31      20.947 -23.045  30.762  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.186 -21.618  30.522  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.486 -21.396  29.764  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.459 -20.778  28.698  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.118 -20.806  31.828  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.571 -19.350  31.634  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.668 -20.775  32.325  1.00 61.95      A    C  
+ENDMDL
+MODEL       21
+ATOM      1  N  1VAL A  31      20.917 -23.063  30.781  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.157 -21.641  30.497  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.472 -21.439  29.745  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.511 -20.697  28.765  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.125 -20.806  31.794  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.545 -19.349  31.567  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.708 -20.774  32.383  1.00 61.95      A    C  
+ENDMDL
+MODEL       22
+ATOM      1  N  1VAL A  31      20.927 -23.086  30.819  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.148 -21.671  30.494  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.451 -21.464  29.719  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.500 -20.622  28.818  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.124 -20.811  31.779  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.577 -19.366  31.552  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.708 -20.749  32.351  1.00 61.95      A    C  
+ENDMDL
+MODEL       23
+ATOM      1  N  1VAL A  31      20.857 -22.984  30.713  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.159 -21.563  30.486  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.507 -21.425  29.783  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.580 -20.840  28.700  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.133 -20.775  31.806  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.433 -19.295  31.560  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.766 -20.887  32.485  1.00 61.95      A    C  
+ENDMDL
+MODEL       24
+ATOM      1  N  1VAL A  31      20.878 -23.031  30.746  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.150 -21.608  30.490  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.487 -21.429  29.772  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.550 -20.764  28.739  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.134 -20.790  31.793  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.483 -19.312  31.560  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.753 -20.834  32.432  1.00 61.95      A    C  
+ENDMDL
+MODEL       25
+ATOM      1  N  1VAL A  31      20.911 -23.053  30.774  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.156 -21.633  30.499  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.474 -21.448  29.746  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.513 -20.700  28.772  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.130 -20.805  31.796  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.534 -19.346  31.556  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.716 -20.785  32.388  1.00 61.95      A    C  
+ENDMDL
+MODEL       26
+ATOM      1  N  1VAL A  31      20.901 -23.028  30.747  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.166 -21.602  30.499  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.489 -21.432  29.760  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.529 -20.770  28.727  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.130 -20.795  31.803  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.500 -19.326  31.581  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.722 -20.815  32.416  1.00 61.95      A    C  
+ENDMDL
+MODEL       27
+ATOM      1  N  1VAL A  31      20.933 -23.060  30.773  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.165 -21.636  30.504  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.477 -21.427  29.748  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.491 -20.723  28.747  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.119 -20.808  31.802  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.556 -19.347  31.593  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.694 -20.767  32.365  1.00 61.95      A    C  
+ENDMDL
+MODEL       28
+ATOM      1  N  1VAL A  31      20.923 -23.075  30.814  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.167 -21.653  30.517  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.461 -21.452  29.727  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.473 -20.647  28.795  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.137 -20.810  31.798  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.584 -19.368  31.564  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.690 -20.764  32.318  1.00 61.95      A    C  
+ENDMDL
+MODEL       29
+ATOM      1  N  1VAL A  31      20.925 -23.058  30.748  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.157 -21.625  30.499  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.481 -21.419  29.770  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.509 -20.750  28.732  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.125 -20.800  31.799  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.532 -19.339  31.587  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.707 -20.778  32.397  1.00 61.95      A    C  
+ENDMDL
+MODEL       30
+ATOM      1  N  1VAL A  31      20.927 -23.056  30.779  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.163 -21.633  30.499  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.480 -21.440  29.736  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.509 -20.716  28.741  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.119 -20.804  31.807  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.543 -19.351  31.591  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.695 -20.770  32.380  1.00 61.95      A    C  
+ENDMDL
+MODEL       31
+ATOM      1  N  1VAL A  31      20.555 -22.479  30.419  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      20.964 -21.103  30.150  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.315 -21.095  29.418  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      23.129 -21.992  29.635  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.018 -20.244  31.422  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      19.596 -19.991  31.948  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      21.860 -20.865  32.541  1.00 61.95      A    C  
+ENDMDL
+MODEL       32
+ATOM      1  N  1VAL A  31      21.054 -22.957  30.599  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      20.933 -21.512  30.400  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      21.894 -21.055  29.293  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      23.093 -21.323  29.378  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.181 -20.737  31.704  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.243 -19.233  31.457  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      20.038 -20.952  32.701  1.00 61.95      A    C  
+ENDMDL
+MODEL       33
+ATOM      1  N  1VAL A  31      20.874 -23.026  30.738  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.144 -21.611  30.482  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.486 -21.445  29.766  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.568 -20.755  28.755  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.136 -20.789  31.783  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.467 -19.308  31.542  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.760 -20.835  32.466  1.00 61.95      A    C  
+ENDMDL
+MODEL       34
+ATOM      1  N  1VAL A  31      20.801 -23.041  30.814  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.121 -21.647  30.454  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.438 -21.544  29.670  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.645 -20.593  28.931  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.165 -20.780  31.726  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.422 -19.297  31.436  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.844 -20.867  32.501  1.00 61.95      A    C  
+ENDMDL
+MODEL       35
+ATOM      1  N  1VAL A  31      20.889 -23.038  30.747  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.147 -21.616  30.484  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.476 -21.450  29.769  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.545 -20.736  28.763  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.137 -20.787  31.789  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.496 -19.316  31.544  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.746 -20.826  32.435  1.00 61.95      A    C  
+ENDMDL
+MODEL       36
+ATOM      1  N  1VAL A  31      20.934 -23.065  30.773  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.158 -21.633  30.500  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.471 -21.426  29.753  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.501 -20.722  28.746  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.123 -20.807  31.797  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.555 -19.347  31.589  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.694 -20.769  32.374  1.00 61.95      A    C  
+ENDMDL
+MODEL       37
+ATOM      1  N  1VAL A  31      20.972 -23.062  30.820  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.166 -21.641  30.506  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.471 -21.408  29.735  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.459 -20.705  28.729  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.101 -20.823  31.810  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.613 -19.398  31.625  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.653 -20.733  32.308  1.00 61.95      A    C  
+ENDMDL
+MODEL       38
+ATOM      1  N  1VAL A  31      20.943 -23.060  30.779  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.160 -21.637  30.500  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.474 -21.426  29.749  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.490 -20.721  28.740  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.118 -20.808  31.802  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.564 -19.355  31.601  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.687 -20.761  32.360  1.00 61.95      A    C  
+ENDMDL
+MODEL       39
+ATOM      1  N  1VAL A  31      20.906 -23.073  30.791  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.145 -21.659  30.492  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.462 -21.453  29.737  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.519 -20.649  28.812  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.132 -20.813  31.781  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.543 -19.357  31.528  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.728 -20.764  32.391  1.00 61.95      A    C  
+ENDMDL
+MODEL       40
+ATOM      1  N  1VAL A  31      20.780 -23.013  30.739  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.137 -21.611  30.462  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.482 -21.504  29.750  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.643 -20.691  28.844  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.160 -20.772  31.750  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.374 -19.287  31.438  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.861 -20.892  32.548  1.00 61.95      A    C  
+ENDMDL
+MODEL       41
+ATOM      1  N  1VAL A  31      20.873 -23.029  30.757  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.154 -21.615  30.486  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.485 -21.453  29.753  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.557 -20.734  28.761  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.132 -20.787  31.787  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.483 -19.317  31.543  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.752 -20.834  32.445  1.00 61.95      A    C  
+ENDMDL
+MODEL       42
+ATOM      1  N  1VAL A  31      21.659 -23.130  31.228  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.193 -21.885  30.591  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.231 -21.249  29.658  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      21.855 -20.528  28.747  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      20.718 -20.900  31.678  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.858 -20.343  32.543  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.922 -19.733  31.086  1.00 61.95      A    C  
+ENDMDL
+MODEL       43
+ATOM      1  N  1VAL A  31      20.239 -22.522  30.493  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.101 -21.354  30.262  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.532 -21.754  29.901  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      23.150 -21.081  29.082  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.089 -20.352  31.417  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      19.675 -19.807  31.646  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      21.650 -20.900  32.731  1.00 61.95      A    C  
+ENDMDL
+MODEL       44
+ATOM      1  N  1VAL A  31      20.929 -23.051  30.772  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.167 -21.625  30.499  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.479 -21.429  29.749  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.498 -20.735  28.742  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.121 -20.805  31.801  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.544 -19.347  31.596  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.699 -20.777  32.374  1.00 61.95      A    C  
+ENDMDL
+MODEL       45
+ATOM      1  N  1VAL A  31      20.852 -23.031  30.755  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.141 -21.620  30.478  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.473 -21.486  29.741  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.588 -20.699  28.808  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.142 -20.784  31.767  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.455 -19.305  31.503  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.785 -20.846  32.479  1.00 61.95      A    C  
+ENDMDL
+MODEL       46
+ATOM      1  N  1VAL A  31      20.803 -23.012  30.756  1.00 67.59      A    N  
+ATOM      2  CA 1VAL A  31      21.146 -21.613  30.473  1.00 70.35      A    C  
+ATOM      3  C  1VAL A  31      22.489 -21.489  29.742  1.00 72.80      A    C  
+ATOM      4  O  1VAL A  31      22.615 -20.702  28.808  1.00 68.74      A    O  
+ATOM      5  CB 1VAL A  31      21.161 -20.779  31.769  1.00 65.59      A    C  
+ATOM      6  CG11VAL A  31      21.404 -19.300  31.479  1.00 58.82      A    C  
+ATOM      7  CG21VAL A  31      19.819 -20.875  32.505  1.00 61.95      A    C  
+ENDMDL
+END

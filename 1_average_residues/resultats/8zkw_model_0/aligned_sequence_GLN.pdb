@@ -1,0 +1,225 @@
+HEADER    
+TITLE     MDANALYSIS FRAMES FROM 0, STEP 1: Created by PDBWriter
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+MODEL        1
+ATOM      1  N  1GLN A  26       8.858 -26.785  35.262  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.549 -27.520  34.217  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      11.051 -27.531  34.546  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.587 -26.519  34.998  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.266 -26.951  32.818  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.805 -27.216  32.404  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.573 -27.159  30.895  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.437 -26.815  30.096  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.407 -27.523  30.438  1.00 40.34      A    N  
+ENDMDL
+MODEL        2
+ATOM      1  N  1GLN A  26       8.788 -26.604  35.272  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.468 -27.528  34.375  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.974 -27.525  34.691  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.620 -26.485  34.551  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.243 -27.143  32.902  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.820 -27.433  32.410  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.632 -27.161  30.906  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.526 -26.726  30.195  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.462 -27.414  30.372  1.00 40.34      A    N  
+ENDMDL
+MODEL        3
+ATOM      1  N  1GLN A  26       8.563 -26.607  35.216  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.545 -27.235  34.323  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.965 -26.755  34.624  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.882 -27.577  34.678  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.206 -26.902  32.865  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.020 -27.703  32.316  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.585 -27.190  30.941  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.730 -26.026  30.613  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       7.035 -28.025  30.098  1.00 40.34      A    N  
+ENDMDL
+MODEL        4
+ATOM      1  N  1GLN A  26       8.567 -26.619  35.312  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.510 -27.229  34.361  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.963 -26.794  34.603  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.874 -27.605  34.507  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.138 -26.851  32.919  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.927 -27.601  32.376  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.605 -27.185  30.945  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.719 -26.026  30.553  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       7.230 -28.108  30.098  1.00 40.34      A    N  
+ENDMDL
+MODEL        5
+ATOM      1  N  1GLN A  26       8.872 -26.494  35.743  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.316 -27.145  34.516  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.781 -26.853  34.218  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.555 -27.786  34.047  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.409 -26.723  33.356  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.776 -27.498  32.086  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.843 -27.222  30.920  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       6.856 -26.503  31.008  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       8.126 -27.795  29.780  1.00 40.34      A    N  
+ENDMDL
+MODEL        6
+ATOM      1  N  1GLN A  26       8.748 -26.757  35.789  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.320 -27.231  34.532  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.724 -26.681  34.298  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.605 -27.439  33.883  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.377 -26.885  33.372  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.877 -27.479  32.048  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.881 -27.263  30.918  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       6.848 -27.904  30.843  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       8.153 -26.380  29.991  1.00 40.34      A    N  
+ENDMDL
+MODEL        7
+ATOM      1  N  1GLN A  26       8.284 -27.594  34.885  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.402 -27.357  33.959  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.778 -27.280  34.655  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.772 -26.976  34.003  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.102 -26.089  33.151  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.803 -26.193  32.324  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.837 -27.226  31.215  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.867 -27.551  30.650  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.690 -27.753  30.833  1.00 40.34      A    N  
+ENDMDL
+MODEL        8
+ATOM      1  N  1GLN A  26       8.755 -26.621  35.284  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.466 -27.501  34.362  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.954 -27.522  34.743  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.672 -26.548  34.514  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.253 -27.088  32.894  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.835 -27.398  32.413  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.632 -27.161  30.905  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.475 -26.654  30.185  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.492 -27.526  30.371  1.00 40.34      A    N  
+ENDMDL
+MODEL        9
+ATOM      1  N  1GLN A  26       8.802 -26.612  35.299  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.475 -27.481  34.329  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.968 -27.563  34.676  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.689 -26.561  34.660  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.230 -27.017  32.883  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.835 -27.444  32.389  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.613 -27.165  30.898  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.426 -26.597  30.193  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.495 -27.580  30.346  1.00 40.34      A    N  
+ENDMDL
+MODEL       10
+ATOM      1  N  1GLN A  26       8.752 -26.748  35.172  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.568 -27.539  34.258  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      11.046 -27.487  34.637  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.609 -26.433  34.922  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.325 -27.114  32.798  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.858 -27.337  32.394  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.583 -27.153  30.907  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.457 -26.954  30.075  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.335 -27.253  30.511  1.00 40.34      A    N  
+ENDMDL
+MODEL       11
+ATOM      1  N  1GLN A  26       8.377 -27.628  34.972  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.350 -27.260  33.942  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.747 -27.009  34.524  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.755 -27.433  33.958  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.898 -25.994  33.197  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.653 -26.196  32.319  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.880 -27.202  31.213  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.781 -27.056  30.399  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       7.093 -28.240  31.149  1.00 40.34      A    N  
+ENDMDL
+MODEL       12
+ATOM      1  N  1GLN A  26       8.514 -26.834  35.222  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.571 -27.270  34.306  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.934 -26.691  34.695  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.928 -27.415  34.685  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.215 -26.872  32.868  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.997 -27.638  32.331  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.602 -27.195  30.917  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.235 -26.374  30.272  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.537 -27.730  30.377  1.00 40.34      A    N  
+ENDMDL
+MODEL       13
+ATOM      1  N  1GLN A  26       8.775 -27.371  35.633  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.113 -27.216  34.222  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.612 -26.934  34.027  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.226 -27.585  33.184  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.210 -26.149  33.587  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.424 -26.000  32.071  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       8.114 -27.257  31.252  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.409 -28.177  31.642  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       8.650 -27.331  30.056  1.00 40.34      A    N  
+ENDMDL
+MODEL       14
+ATOM      1  N  1GLN A  26       8.705 -27.364  35.545  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.087 -27.188  34.149  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.596 -26.979  34.010  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.234 -27.725  33.274  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.273 -26.041  33.525  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.494 -25.945  32.001  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       8.115 -27.225  31.275  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.123 -27.885  31.575  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       8.906 -27.668  30.319  1.00 40.34      A    N  
+ENDMDL
+MODEL       15
+ATOM      1  N  1GLN A  26       8.600 -26.556  35.230  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.531 -27.210  34.309  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.984 -26.809  34.579  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.852 -27.680  34.612  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.170 -26.864  32.866  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.897 -27.583  32.401  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.577 -27.183  30.975  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.207 -26.067  30.682  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       7.717 -28.066  30.021  1.00 40.34      A    N  
+ENDMDL
+MODEL       16
+ATOM      1  N  1GLN A  26       8.835 -26.412  35.752  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.306 -27.150  34.581  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.778 -26.865  34.260  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.503 -27.768  33.848  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       8.402 -26.801  33.391  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.742 -27.601  32.127  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.874 -27.222  30.932  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       7.007 -26.363  30.990  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       8.085 -27.836  29.793  1.00 40.34      A    N  
+ENDMDL
+MODEL       17
+ATOM      1  N  1GLN A  26       8.492 -27.023  35.340  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.535 -27.275  34.338  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.905 -26.698  34.726  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.917 -27.304  34.419  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.111 -26.733  32.961  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.939 -27.525  32.382  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.662 -27.219  30.910  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.522 -26.832  30.138  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.450 -27.411  30.459  1.00 40.34      A    N  
+ENDMDL
+MODEL       18
+ATOM      1  N  1GLN A  26       8.366 -27.047  35.242  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.505 -27.337  34.358  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.827 -26.687  34.795  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.874 -27.027  34.265  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.153 -26.888  32.935  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       8.076 -27.786  32.314  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.706 -27.263  30.949  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.285 -27.608  29.929  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.741 -26.376  30.887  1.00 40.34      A    N  
+ENDMDL
+MODEL       19
+ATOM      1  N  1GLN A  26       8.498 -26.910  35.237  1.00 52.50      A    N  
+ATOM      2  CA 1GLN A  26       9.574 -27.296  34.313  1.00 57.49      A    C  
+ATOM      3  C  1GLN A  26      10.910 -26.653  34.702  1.00 60.22      A    C  
+ATOM      4  O  1GLN A  26      11.939 -27.315  34.662  1.00 59.13      A    O  
+ATOM      5  CB 1GLN A  26       9.228 -26.923  32.862  1.00 54.72      A    C  
+ATOM      6  CG 1GLN A  26       7.966 -27.620  32.337  1.00 50.61      A    C  
+ATOM      7  CD 1GLN A  26       7.606 -27.203  30.918  1.00 46.63      A    C  
+ATOM      8  OE11GLN A  26       8.399 -26.621  30.186  1.00 44.41      A    O  
+ATOM      9  NE21GLN A  26       6.412 -27.478  30.457  1.00 40.34      A    N  
+ENDMDL
+END
