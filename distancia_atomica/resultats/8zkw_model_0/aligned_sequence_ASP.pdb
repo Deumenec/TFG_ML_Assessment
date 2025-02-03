@@ -1,0 +1,126 @@
+HEADER    
+TITLE     MDANALYSIS FRAMES FROM 0, STEP 1: Created by PDBWriter
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+REMARK     285 UNITARY VALUES FOR THE UNIT CELL AUTOMATICALLY SET
+REMARK     285 BY MDANALYSIS PDBWRITER BECAUSE UNIT CELL INFORMATION
+REMARK     285 WAS MISSING.
+REMARK     285 PROTEIN DATA BANK CONVENTIONS REQUIRE THAT
+REMARK     285 CRYST1 RECORD IS INCLUDED, BUT THE VALUES ON
+REMARK     285 THIS RECORD ARE MEANINGLESS.
+MODEL        1
+ATOM      1  N  1ASP A  16      -9.803 -10.833  29.480  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.268 -11.058  30.808  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.752 -11.114  30.691  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -7.145 -12.144  30.405  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.876 -12.320  31.462  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.207 -12.064  32.185  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.467 -10.894  32.561  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -11.935 -13.047  32.409  1.00 35.20      A    O  
+ENDMDL
+MODEL        2
+ATOM      1  N  1ASP A  16      -9.493 -10.641  28.928  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.480 -11.010  30.345  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -8.353 -12.007  30.668  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -7.572 -11.793  31.597  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16     -10.857 -11.562  30.739  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -10.899 -12.020  32.193  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -10.727 -11.208  33.117  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -11.073 -13.233  32.413  1.00 35.20      A    O  
+ENDMDL
+MODEL        3
+ATOM      1  N  1ASP A  16      -9.495 -10.563  28.970  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.452 -10.989  30.375  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -8.385 -12.069  30.643  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -7.581 -11.947  31.567  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16     -10.844 -11.513  30.754  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -10.887 -12.009  32.200  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.083 -11.156  33.078  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -10.726 -13.228  32.412  1.00 35.20      A    O  
+ENDMDL
+MODEL        4
+ATOM      1  N  1ASP A  16     -10.179 -10.783  29.629  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.233 -11.176  30.681  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.820 -11.537  30.179  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.926 -11.785  30.996  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.832 -12.359  31.473  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.151 -12.023  32.168  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.278 -10.898  32.709  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -12.034 -12.912  32.165  1.00 35.20      A    O  
+ENDMDL
+MODEL        5
+ATOM      1  N  1ASP A  16      -9.661 -11.063  29.341  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.357 -10.636  30.703  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -8.124 -11.361  31.255  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -7.548 -12.242  30.618  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16     -10.612 -10.717  31.589  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -10.976 -12.139  32.033  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -10.545 -13.095  31.373  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -11.629 -12.222  33.089  1.00 35.20      A    O  
+ENDMDL
+MODEL        6
+ATOM      1  N  1ASP A  16     -10.084 -10.755  29.633  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.241 -11.271  30.707  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.847 -11.676  30.211  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.867 -11.518  30.942  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.934 -12.456  31.388  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.182 -12.038  32.173  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.151 -10.932  32.758  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -12.148 -12.827  32.187  1.00 35.20      A    O  
+ENDMDL
+MODEL        7
+ATOM      1  N  1ASP A  16      -9.959 -10.561  29.655  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.220 -11.246  30.714  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.853 -11.730  30.212  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.863 -11.597  30.931  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16     -10.035 -12.436  31.253  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.221 -12.054  32.150  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.302 -10.884  32.585  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -12.001 -12.967  32.502  1.00 35.20      A    O  
+ENDMDL
+MODEL        8
+ATOM      1  N  1ASP A  16     -10.067 -10.610  29.703  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.196 -11.198  30.733  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.837 -11.655  30.168  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.854 -11.734  30.903  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.906 -12.387  31.412  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.193 -12.043  32.166  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.413 -10.858  32.508  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -11.986 -12.988  32.408  1.00 35.20      A    O  
+ENDMDL
+MODEL        9
+ATOM      1  N  1ASP A  16     -10.088 -10.823  29.737  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.183 -11.290  30.788  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.844 -11.748  30.183  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.788 -11.464  30.736  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.850 -12.416  31.598  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.208 -12.021  32.188  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.340 -10.886  32.729  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -12.153 -12.825  32.043  1.00 35.20      A    O  
+ENDMDL
+MODEL       10
+ATOM      1  N  1ASP A  16      -9.326 -10.742  28.964  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.536 -10.869  30.414  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -8.229 -11.221  31.153  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -7.715 -12.339  31.035  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16     -10.638 -11.913  30.694  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -10.933 -12.088  32.193  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -10.909 -11.063  32.918  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -11.167 -13.240  32.630  1.00 35.20      A    O  
+ENDMDL
+MODEL       11
+ATOM      1  N  1ASP A  16     -10.129 -10.927  29.689  1.00 40.86      A    N  
+ATOM      2  CA 1ASP A  16      -9.226 -11.334  30.764  1.00 44.49      A    C  
+ATOM      3  C  1ASP A  16      -7.861 -11.739  30.224  1.00 42.50      A    C  
+ATOM      4  O  1ASP A  16      -6.843 -11.362  30.796  1.00 41.20      A    O  
+ATOM      5  CB 1ASP A  16      -9.850 -12.467  31.577  1.00 42.67      A    C  
+ATOM      6  CG 1ASP A  16     -11.176 -12.009  32.183  1.00 38.85      A    C  
+ATOM      7  OD11ASP A  16     -11.176 -10.982  32.893  1.00 35.78      A    O  
+ATOM      8  OD21ASP A  16     -12.193 -12.655  31.875  1.00 35.20      A    O  
+ENDMDL
+END
