@@ -9,14 +9,13 @@
 
 import os
 
-aminoacids = [
-    "ALA", "ARG", "ASN", "ASP", "CYS", "GLN", "GLU", "GLY", "HIS", 
-    "ILE", "LEU", "LYS", "MET", "PHE", "PRO", "SER", "THR", "TRP", "TYR", "VAL"
-]
-
 def folder_check(folder_name):
     """
     Checks for a required folder required in the code ans
     """
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
+
+def add_file(prote):
+    "Adds a file to the database of conformations"
+    a
