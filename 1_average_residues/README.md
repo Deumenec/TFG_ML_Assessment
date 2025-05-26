@@ -1,10 +1,9 @@
 3/2/2025
-Aquest és el primer programa del TFG, l'objectiu é validar que l'estructura dels aminoacids proporcionada per alphafold es correspon amb l'estructura que s'observa per a aquests als aminoacids normals.
+This is the first program wrote in the TFG with the goal of validating aminoacid structure proportioned by AF3. It calculates the average shape for each aminoacid by aligning all of them and finding the geometry with he lowest RMSD with respect to the ensemble. 
 
-Amb aquest objectiu, he escrit un programa que calcula la forma mitjana dels residuus corresponents a un aminoacid a una certa proteïna. El criteri per càlcular aquesta forma mitjana és determinar aquella geometria amb una mínima RMSD respecte la resta tots els residuus alineats amb aquesta. 
+Results are ambiguous as the average is not sufficient to evaluate variability among side chains and backbone, but for longer residues different peack can be distinguished among the RMSD distribution with respect to the average. Such peaks correspond to sidechains in an elongated position vs more packed ones.
 
-Els resultats obtinguts són ambiguus. En general però, s'observen diferències significatives entre les distribucions obtingudes. En general, els resultats d'alphafold semblen més centrats al voltant de certes conformacions per als aminoàcids mentres que d'altres no són tant presents.
+To run the program, load the .pdb file inside the dades folder and use dis.py. 
 
-Hipòtesis: Com alphafold està entrenat amb molècules que cristalitzen, té una certa tendència a replicar exactament aquestes estructures per a cada residuu en comptes de donar lloc a la fluxionalitat natural d'aquests. De tota manera, els resultats obtinguts.
+Finally, in the animations folder one can see how all aligned structures compare to a given average residue, which can be created by vmd by the vmd_comandos.tcl script.
 
-De tota manera, els resultats obtinguts són massa generals. Amb l'objectiu de refinar-los, es vol fer un programa on l'estructura respecte la cual es comparen les estructures sigui una mica més fina.

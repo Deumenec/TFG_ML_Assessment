@@ -7,12 +7,12 @@
 #                                                                                                      #
 ########################################################################################################
 
-#Allowed RMSD treshold for residues in a given bin.
-threshold = 0.2  
+#Allowed RMSD treshold for residues in a given bin per number of atoms inside the residue
+threshold = 0.1
 
 #Directory for reading data
 source = "dades"
-
+source_2 = "dades_analisis"
 #Directory for storing conformations
 conformations = "conformacions"
 
