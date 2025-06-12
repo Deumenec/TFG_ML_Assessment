@@ -1,2 +1,5 @@
-Per altra  banda, utilitzant aquestes llistes de conformacions, es comparen les conformacions predites per alphafold per veure si hi ha conformacions "bojes" que distin molt de les que presenten els aminoàcids.
-L'objectiu d'aquest secció és millorar els resultats obtinguts per als aminoàcids "mitjans". Així, s'analitzen les conformacions de proteïnes del PDB fixant cert RMSD llindar. A partir d'aquest RMSD, es crea una llista de possibles conformacions i per cada conformacions i es comparen amb les conformacions predites per alphafold per comprovar si hi ha conformacions "bojes" que distin molt de les determinades experimentalment.
+Using these conformation lists, the conformations predicted by AlphaFold are compared to see if there are "crazy" conformations really different from those exhibited by the amino acids.
+
+The goal of this section is to improve the results obtained for "average" amino acids. To do this, protein conformations from the PDB are analyzed by setting a certain RMSD threshold. Based on this RMSD, a list of possible conformations is created, and for each of these conformations, they are compared with the AlphaFold-predicted conformations to check if there are "crazy" conformations that differ greatly from those experimentally determined.
+
+All pdb structures to create the database are stored in the dades folder while analized and compared structures are stored 
