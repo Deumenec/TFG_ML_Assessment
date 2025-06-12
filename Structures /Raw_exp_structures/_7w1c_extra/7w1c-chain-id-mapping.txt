@@ -1,9 +1,0 @@
-    New chain ID            Original chain ID
-
-7w1c-pdb-bundle1.pdb:
-           A                         A
-           B                         B
-           C                         C
-           D                         D
-           E                         E
-           F                         F
