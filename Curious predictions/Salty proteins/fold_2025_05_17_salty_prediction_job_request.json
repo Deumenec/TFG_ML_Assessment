@@ -1,0 +1,36 @@
+[{
+ "name": "2025-05-17_salty_prediction",
+ "modelSeeds": [
+  "1636797065"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "ALHWRAAGAATVLLVIVLLAGSYLAVLAERGAPGAQLITYPRALWWSVETATTVGYGDLYPVTLWGRCVAVVVMVAGITSFGLVTAALATWFVGREQ",
+    "count": 4,
+    "useStructureTemplate": false
+   }
+  },
+  {
+   "rnaSequence": {
+    "sequence": "AAACAGU",
+    "count": 3
+   }
+  },
+  {
+   "ion": {
+    "ion": "CL",
+    "count": 2
+   }
+  },
+  {
+   "ion": {
+    "ion": "K",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
