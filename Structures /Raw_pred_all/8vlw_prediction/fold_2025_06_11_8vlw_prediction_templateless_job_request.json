@@ -1,0 +1,25 @@
+[{
+ "name": "2025-06-11_8VLW_prediction_templateless",
+ "modelSeeds": [
+  "632450836"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "STLHISDLILQASPVVQLVMLILLLASIFSWYLIAKLHMSYKKARQDDEHFQKMFWSGAELNTLYNNAQLNSKRSGLEDIFYQGLSEFFKLKKRQAPTSQMIEGTERILRVGLSRDQGSLEYGLGTLASIGSVAPYIGLFGTVWGIMNAFIGLAAVDQVTLATVAPGIAEALIATAIGLFAAIPAVLAFNHFTAKSESVYSDRALFAEEMIALLQRQSVG",
+    "count": 5,
+    "useStructureTemplate": false
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "GRFERIKKPLKSDMNVVPYIDVMLVLLVIFMVTAPMITS",
+    "count": 2,
+    "useStructureTemplate": false
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
