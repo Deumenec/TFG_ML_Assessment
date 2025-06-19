@@ -1,3 +1,12 @@
-# TFG_AF3_Assesment
+# Chemical Assessment of protein structure prediction by AlphaFold 3
+**TFG — Domènec Huerta Estradé**  
+Universitat Autònoma de Barcelona — ICMAB  
+Supervisor: Dr. Jordi Faraudo Gener
 
-Aquest direcory recull la feina que vaig realitzant relacionada amb el meu TFG del grau de química. El seu objectiu és validar des d'un punt de vista químic les prediccions realitzades per el programa Alphafold de Google. It includes plots for all aspects of proteins analized throuh the thesis and scripts to generate such plots for any other protein structure.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)  
+
+## 🧪 Project Overview
+
+**AlphaFold 3** has revolutionized protein structure prediction — but are its predictions *chemically accurate*?
+
+![Example plot]("/2_residue_conformational_analysis/resultats/triple_comparison3qbi/LEU.pdf")  
