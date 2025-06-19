@@ -9,4 +9,4 @@ Supervisor: Dr. Jordi Faraudo Gener
 
 **AlphaFold 3** has revolutionized protein structure prediction — but are its predictions *chemically accurate*?
 
-![Example plot]("/2_residue_conformational_analysis/resultats/triple_comparison3qbi/LEU.pdf")  
+![Example plot](/2_residue_conformational_analysis/resultats/triple_comparison3qbi/LEU.pdf)  
