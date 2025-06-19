@@ -30,14 +30,13 @@ class Residue:
             self.conformation_id  = conformation_id
             self.conformation_cord = conformation_cord
             self.instances_num = instances_num
-            self.instances = [conformation_cord] #Aquí podria guardar totes les conformacions observades amb l'RMSD fixat però va massa lent
-            self.origin = origin #Saves the first file where the conformation was found...could save all the files where it was found!!!
+            self.instances = [conformation_cord] #Number of instances of a conformation found
+            self.origin = origin #Saves the first file where the conformation was found
                         
         def compare(self, compare_conformation, compare_threshold):
-            "Check if a conformation is equal within the given RMSD value"
+            "Check if a conformation is equal to another one within the given threshold value"
             if(len(compare_conformation.atoms)!= len(self.conformation_cord.atoms)):
-                #print("Hi ha una "+self.conformation_id+" de len "+str(len(compare_conformation))+" en comptes de " + str(len(self.conformation_cord))) Per excloure les conformacions terminals i d'altres errors
-                return
+                return #To exclude unmodeled residues in the structure
             _, aligned_rmsd = align.alignto(compare_conformation, self.conformation_cord) 
             if aligned_rmsd <= compare_threshold:
                 self.instances_num +=1
@@ -48,19 +47,18 @@ class Residue:
             return f"Conformation of '{self.conformation_id}' with '{self.instances_num}' instances first seen in '{self.origin}'" 
         
     def check_conformation(self, checking_conformation, check_name):
-        "Given a conformation, it checks if it coincides with an already stored conformation. If that is the case, it stores it within that bin. Otherwise, it creates a conformation class for that conformation."
+        "Method that, given a conformation, checks if it coincides with an already stored conformation and adds one instance to it.Otherwise, it creates a conformation class for that not previously seen conformation."
         if (len(checking_conformation.atoms) != self.residue_len):
-            return
+            return #To exclude unmodeled residues in the structure
         for check_stored_conformation in self.conformations:
             if check_stored_conformation.compare(checking_conformation, self.threshold) == True:
                 check_stored_conformation.instances.append(checking_conformation)
                 return
         self.conformations.append(self.Conformation(self.residue_id, checking_conformation, check_name))
-        #print("halou"+self.residue_id)
         return
 
     def add_universe(self, universe, name, verbose = False):
-        "Checks the conformation for all instances of a residue inside a universe"
+        "Method that checks all the conformation for all instances of a residue inside a universe, set verbose to true to print the database repr after adding"
         add_all_residues= universe.select_atoms("protein and not (name OXT or name NTER) and resname "+self.residue_id)
         add_frames = add_all_residues.residues
         for add_frame in add_frames:
@@ -75,19 +73,18 @@ class Residue:
             print(self)
         return
     def frequencies_vector(self, freq_universe):
-        "Given a universe, it adds it and returns aminoacid frequencies, printing the performed calculation "
-        print(self.residue_id)
-        freq_frequencies_0 = []
-        freq_frequencies_1 = []
+        "Given a universe, it adds it to the Residue class and returns amino acid frequencies, printing the outcome vectors for graph ploting"
+        freq_frequencies_0 = [] #frequencies before adding the new data
+        freq_frequencies_1 = [] #frequencies after adding the new data
         for freq_conformation in self.conformations:
             freq_frequencies_0.append(freq_conformation.instances_num)
-        self.add_universe(freq_universe, "analysis") #Afegeix el nou univers que es vol analitzar
+        self.add_universe(freq_universe, "analysis") #Adds the universe that we wish to analize
         for freq_conformation in self.conformations:
             freq_frequencies_1.append(freq_conformation.instances_num)
         return freq_frequencies_0, freq_frequencies_1
             
     def open(self):
-        "Opens conformations saved in conformations_dir, no és necessari realment així que no ho he programat aquí"
+        "Opens conformations saved in conformations_dir to run the program without analizing the database"
         open_conformations = [f for f in os.listdir(self.conformations_dir +"/"+self.residue_id ) if not f.endswith(".txt")]
         
         #Resets the open conformations
@@ -101,7 +98,7 @@ class Residue:
                 lines = lines.splitlines()
             open_coordinates = mda.Universe(self.conformations_dir +"/"+self.residue_id +"/"+str(open_conformation)+".pdb")
             self.conformations.append(self.Conformation(self.residue_id, open_coordinates, lines[1], instances_num = int(lines[0])))
-            del open_coordinates #Per esborrar l'univers un cop s'han guardat les dades
+            del open_coordinates #Deletes the universe after saving the coordinates
     
     def save(self):
         "Saves the conformations in conformations_dir"

@@ -1,0 +1,7 @@
+7f60:
+Mean Omega Angle: 179.51 degrees
+Standard Deviation: 10.24 degrees
+
+7f60_pred:
+  Mean Omega Angle: 176.59 degrees
+  Standard Deviation: 10.51 degrees

@@ -1,0 +1,7 @@
+6owe:
+Mean Omega Angle: 179.06 degrees
+Standard Deviation: 10.82 degrees
+
+6owe_pred:
+  Mean Omega Angle: 176.87 degrees
+  Standard Deviation: 10.46 degrees

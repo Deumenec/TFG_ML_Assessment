@@ -1,0 +1,3 @@
+type	PDB	Exp	Pred
+len	12	11	4
+max	0.20469798657718122	0.2	0.4

@@ -1,0 +1,7 @@
+3qbi:
+Mean Omega Angle: 179.90 degrees
+Standard Deviation: 1.09 degrees
+
+3qbi_pred:
+  Mean Omega Angle: 177.74 degrees
+  Standard Deviation: 4.14 degrees

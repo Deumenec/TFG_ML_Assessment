@@ -1,0 +1,7 @@
+7w1c:
+Mean Omega Angle: 177.88 degrees
+Standard Deviation: 9.00 degrees
+
+7w1c_pred:
+  Mean Omega Angle: 175.83 degrees
+  Standard Deviation: 11.00 degrees
